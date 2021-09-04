@@ -1,0 +1,11 @@
+{
+  "name": "api-erlea",
+  "version": "1.0.0",
+  "description": "api vivero erlea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MiaFate",
+  "license": "ISC"
+}
